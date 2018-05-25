@@ -1,0 +1,8 @@
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\bin\Debug\netstandard1.4\ClassLibrary4.deps.json
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\bin\Debug\netstandard1.4\ClassLibrary4.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\bin\Debug\netstandard1.4\ClassLibrary4.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\obj\Debug\netstandard1.4\ClassLibrary4.csprojResolveAssemblyReference.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\obj\Debug\netstandard1.4\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\obj\Debug\netstandard1.4\ClassLibrary4.AssemblyInfo.cs
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\obj\Debug\netstandard1.4\ClassLibrary4.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary4\obj\Debug\netstandard1.4\ClassLibrary4.pdb

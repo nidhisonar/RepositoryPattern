@@ -1,0 +1,11 @@
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\RepositoryPattern_ServiceInterfaces.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\RepositoryPattern_ServiceInterfaces.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\Repository_Database.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\EntityFramework.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\Repository_Database.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\Repository_Database.dll.config
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\bin\Debug\EntityFramework.xml
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\obj\Debug\RepositoryPattern_ServiceInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\obj\Debug\RepositoryPattern_ServiceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\obj\Debug\RepositoryPattern_ServiceInterfaces.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceInterfaces\obj\Debug\RepositoryPattern_ServiceInterfaces.pdb

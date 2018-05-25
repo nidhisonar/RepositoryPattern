@@ -1,0 +1,15 @@
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\ClassLibrary6.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\ClassLibrary6.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\RepositoryPattern_RepoInterfaces.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\RepositoryPattern_ServiceInterfaces.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\Repository_Database.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\EntityFramework.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\RepositoryPattern_RepoInterfaces.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\RepositoryPattern_ServiceInterfaces.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\Repository_Database.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\Repository_Database.dll.config
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\bin\Debug\EntityFramework.xml
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\obj\Debug\RepositoryPattern_ServiceClasses.csprojResolveAssemblyReference.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\obj\Debug\RepositoryPattern_ServiceClasses.csproj.CoreCompileInputs.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\obj\Debug\ClassLibrary6.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\ClassLibrary6\obj\Debug\ClassLibrary6.pdb

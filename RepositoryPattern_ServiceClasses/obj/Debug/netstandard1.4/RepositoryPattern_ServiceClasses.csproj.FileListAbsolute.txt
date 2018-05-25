@@ -1,0 +1,8 @@
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\bin\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.deps.json
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\bin\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\bin\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.pdb
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\obj\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.csprojResolveAssemblyReference.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\obj\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.csproj.CoreCompileInputs.cache
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\obj\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.AssemblyInfo.cs
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\obj\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.dll
+C:\Users\NidhiSonar\Downloads\RepositoryPattern (1)\RepositoryPattern\RepositoryPattern_ServiceClasses\obj\Debug\netstandard1.4\RepositoryPattern_ServiceClasses.pdb
